@@ -1,0 +1,16 @@
+export const botList = [
+  'dependabot-support',
+  'semantic-release-bot',
+  'docubot',
+  'github-openapi-bot',
+  'snyk-bot',
+  'greenkeeperio-bot',
+  'renovate-bot',
+  'bot-translations',
+  'dakai-bot',
+  'kantai-robot',
+  'blockstack-devops',
+  'preact-cli',
+  'codacy-badger',
+  'ockam-team',
+];
