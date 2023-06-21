@@ -9,6 +9,7 @@ const config: Config = {
   },
   transformIgnorePatterns: ['/node_modules/'],
   setupFiles: ['./jest.setup.js'],
+  coverageProvider: 'v8',
 };
 
 export default config;
